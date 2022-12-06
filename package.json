@@ -46,7 +46,7 @@
     "next-compose-plugins": "^2.2.1",
     "node-fetch": "^2.6.1",
     "pdfjs-dist": "2.9.359",
-    "qs": "^6.10.1",
+    "qs": "^6.10.3",
     "react": "^17.0.2",
     "react-beautiful-dnd": "^13.1.0",
     "react-dom": "^17.0.2",
